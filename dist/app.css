@@ -28,8 +28,13 @@ body {
   text-transform: uppercase;
 }
 
-.container div h3,
+.container div h3 {
+  color: #9b1a1c;
+  margin: 0 0 3px;
+}
+
 .container div h4 {
   color: grey;
+  margin: 0 0 3px;
 }
 

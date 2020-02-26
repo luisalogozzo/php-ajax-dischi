@@ -1,10 +1,6 @@
-<?php
-include __DIR__ . '/database.php';
+<?php include __DIR__ . '/database.php'; ?>
 
-
- ?>
-
- <!DOCTYPE html>
+<!DOCTYPE html>
  <html lang="en" dir="ltr">
    <head>
      <meta charset="utf-8">
@@ -15,7 +11,7 @@ include __DIR__ . '/database.php';
    </head>
    <body>
      <div class="container">
-       <?php foreach ($db as $disc) { ?>
+       <?php foreach ($db as $disc) {?>
          <div class="disc">
            <img class='poster' src="<?php echo $disc['poster'] ?>" alt="">
            <h2> <?php echo $disc['title'] ?></h2>
