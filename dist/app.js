@@ -15806,10 +15806,10 @@ module.exports = g;
 
 /***/ }),
 
-/***/ "./src/app.js":
-/*!********************!*\
-  !*** ./src/app.js ***!
-  \********************/
+/***/ "./src/js/app.js":
+/*!***********************!*\
+  !*** ./src/js/app.js ***!
+  \***********************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15844,10 +15844,10 @@ $(document).ready(function () {
 
 /***/ }),
 
-/***/ "./src/app.scss":
-/*!**********************!*\
-  !*** ./src/app.scss ***!
-  \**********************/
+/***/ "./src/scss/app.scss":
+/*!***************************!*\
+  !*** ./src/scss/app.scss ***!
+  \***************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15856,14 +15856,14 @@ $(document).ready(function () {
 /***/ }),
 
 /***/ 0:
-/*!*****************************************!*\
-  !*** multi ./src/app.js ./src/app.scss ***!
-  \*****************************************/
+/*!*************************************************!*\
+  !*** multi ./src/js/app.js ./src/scss/app.scss ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/luisa/Documents/Boolean/php-ajax-dischi/src/app.js */"./src/app.js");
-module.exports = __webpack_require__(/*! /Users/luisa/Documents/Boolean/php-ajax-dischi/src/app.scss */"./src/app.scss");
+__webpack_require__(/*! /Users/luisa/Documents/Boolean/php-ajax-dischi/src/js/app.js */"./src/js/app.js");
+module.exports = __webpack_require__(/*! /Users/luisa/Documents/Boolean/php-ajax-dischi/src/scss/app.scss */"./src/scss/app.scss");
 
 
 /***/ })

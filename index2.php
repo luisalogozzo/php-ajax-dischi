@@ -6,8 +6,18 @@
     <title></title>
   </head>
   <body>
-    <div class="container">
-    </div>
+    <header>
+      <div class="header-cont">
+        <img class="logo" src="img/logo-small.png" alt="">
+        <input type="text" name="" value="" placeholder="digita un artista...">
+      </div>
+    </header>
+
+    <main>
+      <div class="container">
+      </div>
+    </main>
+
 
     <script id="entry-template" type="text/x-handlebars-template">
 
